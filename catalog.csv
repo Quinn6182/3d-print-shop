@@ -1,0 +1,4 @@
+imagePath,sizeOptions,colorOptions,name,price
+images/Rocktopus.png,Small/Medium/Large,White/Blue/Green/Red,Rocktopus,$3/$5/$7
+images/Calicat.png,Tiny/Small/Medium/Large,White/Blue,Calicat,$2/$3/$4/$5
+images/Maze.png,Small/Medium/Large,White/Blue/Green/Red,Maze,$5/$7/$9
